@@ -5,7 +5,7 @@
         alt="Vuetify Logo"
         class="shrink mr-2"
         contain
-        :src="require('../assets/Happy-Sun-drawing.png')"
+        :src="require('../../public/Happy-Sun-drawing.png')"
         transition="scale-transition"
         width="40"
       />
