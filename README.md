@@ -1,29 +1,5 @@
 # suncalc
 
-## Project setup
-```
-npm install
-```
+This is a vue application for calculating extraterrestrial radiation. Some more calculations will be added in a future. This app was just a 2h self-made application. I was inspired by the reason there was no such calculator over the internet yet and that I used pysolar (https://pysolar.org/) for my calculations. This fills the gap. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Website: https://kelaric.github.io/suncalc/
