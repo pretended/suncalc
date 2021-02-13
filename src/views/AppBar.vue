@@ -13,10 +13,10 @@
     </div>
 
     <v-spacer></v-spacer>
-    <v-btn href="https://github.com/Kelaric" target="_blank" text rounded>
+    <v-btn href="https://github.com/pretended" target="_blank" text rounded>
       <v-icon>mdi-github</v-icon>
     </v-btn>
-    <v-btn href="https://kelaric.github.io/" target="_blank" text rounded>
+    <v-btn href="https://pretended.github.io/" target="_blank" text rounded>
       <v-icon>
         mdi-web
       </v-icon>
